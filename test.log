@@ -1,0 +1,18 @@
+INFO:root:Test case 1(RF1)
+INFO:root:PASS using the debugger
+INFO:root:Finalizó el test 1
+INFO:root:Test case 2(RF2)
+INFO:root:Before if
+INFO:root:PASS
+INFO:root:Finalizó el test 2
+INFO:root:Test case 3(RF3)
+INFO:root:Test passed using debugger
+INFO:root:Finalizó el test 3
+INFO:root:Test case 4(RF4)
+INFO:root:Los nombres son:[1, 2]
+ERROR:root:FAIL
+WARNING:root:La funcion devuelve los ids
+INFO:root:Finalizó el test 4
+INFO:root:Test case 5(RFN1)
+INFO:root:Passed using debugger
+INFO:root:Finalizó el test 5
